@@ -29,7 +29,7 @@ class Data {
 
   static final doctorsList = [
     Doctor(
-        name: "Dr.Hegazy Ali",
+        name: "Dr.Hegazy Alii",
         speciality: "Cardiology",
         image: "assets/images/doctor_1.png",
         reviews: 80,
